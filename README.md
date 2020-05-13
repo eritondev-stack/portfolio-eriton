@@ -22,7 +22,7 @@ This project was developed with the following technologies:
 
 -  [Vue](https://vuejs.org/)
 -  [Lottie](https://pub.dev/packages/lottie)
-   [Adobe Ilustrator](https://www.adobe.com/br/products/illustrator.html?gclid=CjwKCAjwte71BRBCEiwAU_V9h9ultaeHR8DqUKZpDHCMU8Xb8kZGy6P55V2prv-wSqjlzZmXqTEmHxoCLWQQAvD_BwE&sdid=KQPNX&mv=search&ef_id=CjwKCAjwte71BRBCEiwAU_V9h9ultaeHR8DqUKZpDHCMU8Xb8kZGy6P55V2prv-wSqjlzZmXqTEmHxoCLWQQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784431320!e!!g!!adobe%20illustrator)
+-  [Adobe Ilustrator](https://www.adobe.com/br/products/illustrator.html?gclid=CjwKCAjwte71BRBCEiwAU_V9h9ultaeHR8DqUKZpDHCMU8Xb8kZGy6P55V2prv-wSqjlzZmXqTEmHxoCLWQQAvD_BwE&sdid=KQPNX&mv=search&ef_id=CjwKCAjwte71BRBCEiwAU_V9h9ultaeHR8DqUKZpDHCMU8Xb8kZGy6P55V2prv-wSqjlzZmXqTEmHxoCLWQQAvD_BwE:G:s&s_kwcid=AL!3085!3!301784431320!e!!g!!adobe%20illustrator)
 -  [UI](https://www.behance.net/gallery/91349275/Designer-Portfolio-Web-and-UIUX-Projects-2020)
 
 
